@@ -2,8 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning aiml
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i am a beginer in coding
 
 <!---
